@@ -1,0 +1,87 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.idea/*
+*.iws
+*.iml
+.idea/libraries/
+.idea/runConfigurations/
+.idea/workspace.xml
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Visual Studio Code ###
+.vscode/
+*.code-workspace
+
+### Mac OS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Windows ###
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### Linux ###
+.Trash-*
+
+### Build output ###
+build/
+target/
+
+### Logs ###
+*.log
+
+### Compiled Java classes ###
+*.class
+
+### Packaged files ###
+*.jar
+*.war
+*.ear
+
+### Temporary files ###
+*~
+*.swp
+*.swo
+
+### Native libraries (optional, depending on your setup) ###
+native/
+
+### Environment variables ###
+.env
+.env.local
+.env.*.local
+
+### Dependency directories ###
+node_modules/
+dist/
+.pnp.*
+.yarn/*
+.pnp.js
+
+### IDE-specific ###
+*.classpath
+*.project
+*.settings
+.factorypath
